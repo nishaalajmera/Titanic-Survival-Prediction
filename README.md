@@ -1,1 +1,3 @@
 # Titanic Survival Prediction
+In 1912, the RMS Titanic sank after colliding with an iceberg in the North Atlantic Ocean. This resulted in an unfortunate death of 1502 out of 2224 passengers and crew due to lack of lifeboats for everyone onboard. It was observed from the passenger data that some group of people were more likely to survive than others. 
+In this analysis we aim to investigate the survival chances of passengers from different demographics and groups. Machine learning models will be used to assess and predict passenger survival. The features of the data will also be assessed to understand which features were more important to give a good prediction of survival. 
